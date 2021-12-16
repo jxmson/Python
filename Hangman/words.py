@@ -1,0 +1,1 @@
+words = ["aback", "abashed", "abandoned", "aberrant", "abiding", "abject", "ablaze", "able", "abnormal", "abhorrent", "boorish"]
